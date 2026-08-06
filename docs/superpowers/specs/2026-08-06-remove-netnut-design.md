@@ -11,11 +11,13 @@ Remove every current-tree appearance of the NetNut proxy provider while preservi
 - Remove the NetNut entry from the proxy sponsor registry.
 - Delete the dedicated `netnut.md` sponsor page.
 - Delete the `img/netnut-banner.png` asset.
+- Add a small-print sponsor disclaimer at the end of `README.md` stating that sponsor listings and referral links are not endorsements and that the project and its maintainers are not responsible for sponsors' products, services, representations, conduct, or resulting losses or damages.
 
 No other sponsor content, provider-selection logic, or proxy behavior will change.
 
 ## Verification
 
 - Search tracked and untracked repository content and filenames case-insensitively for `netnut` and `net nut`.
+- Confirm the sponsor disclaimer is the final substantive content in `README.md` and uses small-text HTML markup.
 - Validate the sponsor registry through the existing selector tests.
 - Run relevant repository checks for the changed documentation and registry content.
