@@ -53,16 +53,6 @@ If this project is useful to you, a GitHub star helps others discover it. Sponso
 
 <p align="center"><i>This project is made possible by our amazing sponsors</i></p>
 
-### [NetNut – Limitless Web Data Collection](https://netnut.io/?ref=y2fmmzz)
-
-[![NetNut – Limitless Web Data Collection](./img/netnut-banner.png)](https://netnut.io/?ref=y2fmmzz)
-
-Built on a fully owned premium residential proxies network infrastructure powering enterprise-grade Website Unblocker, SERP APIs, LLM scraper, ecommerce data collection, and ready-to-use datasets.
-
-[**Visit NetNut →**](https://netnut.io/?ref=y2fmmzz) | [Learn more](netnut.md)
-
----
-
 ### [Coreclaw](https://www.coreclaw.com/?utm_source=github&utm_medium=referral&utm_campaign=gosom&utm_term=&utm_id=gosom) - Full-stack web scraping and data extraction platform
 
 [![Coreclaw - Full-stack web scraping and data extraction platform](./img/coreclaw.png)](https://www.coreclaw.com/?utm_source=github&utm_medium=referral&utm_campaign=gosom&utm_term=&utm_id=gosom)
@@ -877,4 +867,8 @@ Please use this scraper responsibly and in accordance with applicable laws and r
 
 <p align="center">
   <sub>Banner generated using OpenAI's DALL-E</sub>
+</p>
+
+<p align="center">
+  <sub><strong>SPONSOR DISCLAIMER:</strong> Sponsor listings and referral links do not constitute an endorsement. This project and its maintainers are not responsible for sponsors' products, services, representations, conduct, or any resulting loss or damage. Users engage with sponsors at their own risk.</sub>
 </p>
